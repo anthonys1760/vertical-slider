@@ -1,5 +1,5 @@
 # Vertical Slider
-![title-pic](vertical-slider.png)
+![title-pic](vertical-slider-1.png)
 
 Vertical slider utilizing HTML, CSS and JavaScript. After page load when clicking the up or down error the slider will "Slide" the text and Picture to next slide.
  
