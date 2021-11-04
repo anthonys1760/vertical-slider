@@ -1,18 +1,7 @@
 # Vertical Slider
-![title-pic](responsive.png)
+![title-pic](vertical-slider.png)
 
-Webpage for aspiring Web Developers who want to learn how to code and build Websites.
-
-## Project Sections
-
-- Start Enrollment
-- Sign Up For Newsletters
-- Virtual Training
-- Hybrid Training
-- In-Person Training
-- Instructors
-- Frequently Asked Questions
-- Contact Info
+Vertical slider utilizing HTML, CSS and JavaScript. After page load when clicking the up or down error the slider will "Slide" the text and Picture to next slide.
  
 ## Steps to execute this App:
 - Download the entire code 
